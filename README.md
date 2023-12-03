@@ -54,7 +54,7 @@ The machine learning model is trained using TensorFlow and Keras.
 The training process encompasses preprocessing the text data, defining and training the LSTM model, and evaluating its performance.
 
 Additional Information
-For more details, watch the project's YouTube video () explaining the application's functionality.
+For more details, watch the project's YouTube video (https://www.youtube.com/watch?v=zA2Ht4xd3gQ) explaining the application's functionality.
 
 Note: This application is for demonstration purposes, and the model's predictions may not be perfect.
 
