@@ -45,7 +45,7 @@ Click the "Predict" button to view the model's prediction.
 **4 .Files and Structure**
 
 Spam_Deployment.py: The primary Streamlit application file.
-spam_model.h5: The LSTM model saved in HDF5 format.
+spam_model.h5: The LSTM model saved in HDF5 format (https://drive.google.com/file/d/1NFBbPh2f_I4rGh3e69c90bNlIdWHoI-v/view?usp=sharing).
 
 tokenizer.pkl: A Pickle file containing the tokenizer used for text preprocessing.
 Model Training
