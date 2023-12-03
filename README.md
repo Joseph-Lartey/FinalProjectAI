@@ -41,12 +41,12 @@ This will start a local development server, and you can access the application i
 
 Input a message in the provided text box.
 Click the "Predict" button to view the model's prediction.
-Optionally, click the "Clear" button to clear the input.
 
 **4 .Files and Structure**
 
 Spam_Deployment.py: The primary Streamlit application file.
 spam_model.h5: The LSTM model saved in HDF5 format.
+
 tokenizer.pkl: A Pickle file containing the tokenizer used for text preprocessing.
 Model Training
 
